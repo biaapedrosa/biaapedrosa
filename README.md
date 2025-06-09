@@ -22,6 +22,10 @@
 
 ## Interests
 
--Development
--Cybersecurity
--Database
+- Development
+- Cybersecurity
+- Database
+
+## My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaapedrosa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
