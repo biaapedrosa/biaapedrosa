@@ -1,7 +1,7 @@
 ## Helloooo
 
 - My name is Beatriz, but everybody calls me Bia
-- I'm a first year Computer Science student at CESAR School
+- I'm a first year Information Systems student at CIn UFPE
 - I'm looking to colaborate on projects that help me learn new things in various areas of tecnology and that have a positive impact on the world
 - Fun fact:I love read books
 - You can find me at:
